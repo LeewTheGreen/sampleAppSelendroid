@@ -1,0 +1,14 @@
+<core:View
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core"
+	controllerName="io.cordova.hellocordova.view.Profile">
+
+	<Carousel id="profileCarousel">
+		<Page id="educationStep" title="{i18n>EDUCATION}">
+			<core:Fragment fragmentName="io.cordova.hellocordova.view.EducationStep" type="XML" />
+		</Page>
+		<Page id="attachmentsStep" title="{i18n>ATTACHMENTS}">
+			<core:Fragment fragmentName="io.cordova.hellocordova.view.AttachmentsStep" type="XML" />
+		</Page>
+	</Carousel>
+</core:View>
