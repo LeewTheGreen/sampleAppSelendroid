@@ -1,0 +1,12 @@
+<core:View
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core"
+	controllerName="io.cordova.hellocordova.view.Main">
+
+	<Page title="Test">
+		<content>
+			<StandardTile title="Profile" press="onPressProfileTile"/>
+		</content>
+	</Page>
+
+</core:View>

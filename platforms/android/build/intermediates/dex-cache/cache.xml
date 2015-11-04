@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\I841546.GLOBAL\new-casa\sample\testApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e61db833f5621220518f9673fb38d97b029b1e2e">
+        <dex dex="C:\Users\I841546.GLOBAL\new-casa\sample\testApp\platforms\android\build\intermediates\pre-dexed\debug\classes-4916e6526c653354752f8fcae9cdda3ed849f5f1.jar" />
+    </item>
+
+</items>

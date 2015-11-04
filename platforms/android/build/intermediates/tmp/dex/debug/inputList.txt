@@ -1,0 +1,2 @@
+C:\Users\I841546.GLOBAL\new-casa\sample\testApp\platforms\android\build\intermediates\classes\debug
+C:\Users\I841546.GLOBAL\new-casa\sample\testApp\platforms\android\build\intermediates\pre-dexed\debug\classes-4916e6526c653354752f8fcae9cdda3ed849f5f1.jar
