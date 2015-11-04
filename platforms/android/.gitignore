@@ -11,4 +11,3 @@ ant-gen
 gen
 out
 # Gradle builds
-/build
